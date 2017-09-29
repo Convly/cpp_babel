@@ -1,0 +1,2 @@
+g++ *.cpp -L./ -lportaudio -lopus -lrt -lm -lasound -pthread -ljack -std=c++11 -g3
+
